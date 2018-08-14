@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+      "module": "commonJS",
+      "lib": ["es6", "es2015"],
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "target": "es6" 
+  },
+  "include": [
+      "lib/**/*",
+      "index.ts"
+  ],
+  "exclude": [
+      "node_modules",
+      "**/*.spec.ts"
+  ]
+}
