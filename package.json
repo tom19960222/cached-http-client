@@ -1,6 +1,6 @@
 {
   "name": "@tom19960222/cached-http-client",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An HTTP Client with cache for Node.js",
   "main": "index.js",
   "scripts": {
